@@ -1,0 +1,99 @@
+{
+	"name": "at-json-storage",
+	"versions": {
+		"1.0.0": {
+			"name": "at-json-storage",
+			"version": "1.0.0",
+			"description": "web storage使用。同一个storage使用json存储",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-json-storage.git"
+			},
+			"keywords": [
+				"storage",
+				"localStorage",
+				"sessionStorage"
+			],
+			"author": {
+				"name": "Atomer"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-json-storage/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-json-storage#readme",
+			"readmeFilename": "README.md",
+			"_id": "at-json-storage@1.0.0",
+			"_shasum": "a55726b54db35ee3cf3a6509b857a4b275605943",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "a55726b54db35ee3cf3a6509b857a4b275605943",
+				"tarball": "http://npm.atomer.tech/at-json-storage/-/at-json-storage-1.0.0.tgz"
+			}
+		},
+		"1.0.1": {
+			"name": "at-json-storage",
+			"version": "1.0.1",
+			"description": "web storage使用。同一个storage使用json存储",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-json-storage.git"
+			},
+			"keywords": [
+				"storage",
+				"localStorage",
+				"sessionStorage"
+			],
+			"author": {
+				"name": "Atomer"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-json-storage/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-json-storage#readme",
+			"readmeFilename": "README.md",
+			"_id": "at-json-storage@1.0.1",
+			"_shasum": "bc41c42e327fe4a42244859e9a37344b35417af5",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "bc41c42e327fe4a42244859e9a37344b35417af5",
+				"tarball": "http://npm.atomer.tech/at-json-storage/-/at-json-storage-1.0.1.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": [
+			"1.0.0",
+			"1.0.1"
+		]
+	},
+	"_distfiles": {},
+	"_attachments": {
+		"at-json-storage-1.0.0.tgz": {
+			"shasum": "a55726b54db35ee3cf3a6509b857a4b275605943",
+			"version": "1.0.0"
+		},
+		"at-json-storage-1.0.1.tgz": {
+			"shasum": "bc41c42e327fe4a42244859e9a37344b35417af5",
+			"version": "1.0.1"
+		}
+	},
+	"_uplinks": {},
+	"_rev": "6-ef80b428af2d8209",
+	"readme": "# at-json-storage\r\n\r\n```\r\nlet localStorage = CreateStorage.localStorage('storageName');\r\nlet sessionStorage = CreateStorage.sessionStorage('storageName');\r\n\r\nstorage.putItem(key, value);\r\nstorage.getItem(key);\r\nstorage.removeItem(key); // 删除storage中某个属性\r\nstorage.reset(); // 重置当前storage = {};\r\nstorage.remove(); // 删除当前storage\r\nstorage.clear(); //清除所有localStorage或者sessionStorage\r\n```"
+}

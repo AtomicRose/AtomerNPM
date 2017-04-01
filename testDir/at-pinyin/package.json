@@ -1,0 +1,302 @@
+{
+	"name": "at-pinyin",
+	"versions": {
+		"1.0.0": {
+			"name": "at-pinyin",
+			"version": "1.0.0",
+			"description": "The utf8 chinese to pinyin.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-pinyin.git"
+			},
+			"keywords": [
+				"pinyin",
+				"chinese"
+			],
+			"author": {
+				"name": "Atomer"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-pinyin/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-pinyin#readme",
+			"_id": "at-pinyin@1.0.0",
+			"_shasum": "d3b0939ed2cb835a6e8baf0fb00e5e26465fe0d9",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "6.9.2",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "d3b0939ed2cb835a6e8baf0fb00e5e26465fe0d9",
+				"tarball": "http://npm.atomer.tech/at-pinyin/-/at-pinyin-1.0.0.tgz"
+			}
+		},
+		"1.0.1": {
+			"name": "at-pinyin",
+			"version": "1.0.1",
+			"description": "The utf8 chinese to pinyin.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-pinyin.git"
+			},
+			"keywords": [
+				"pinyin",
+				"chinese"
+			],
+			"author": {
+				"name": "Atomer"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-pinyin/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-pinyin#readme",
+			"readmeFilename": "README.md",
+			"_id": "at-pinyin@1.0.1",
+			"_shasum": "87cee40227413b9a80cf2ebe6facc31e7d27732c",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "6.9.2",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "87cee40227413b9a80cf2ebe6facc31e7d27732c",
+				"tarball": "http://npm.atomer.tech/at-pinyin/-/at-pinyin-1.0.1.tgz"
+			}
+		},
+		"1.0.2": {
+			"name": "at-pinyin",
+			"version": "1.0.2",
+			"description": "The utf8 chinese to pinyin.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-pinyin.git"
+			},
+			"keywords": [
+				"pinyin",
+				"chinese"
+			],
+			"author": {
+				"name": "Atomer",
+				"email": "baishenfang@hotmail.com"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-pinyin/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-pinyin#readme",
+			"readmeFilename": "README.md",
+			"_id": "at-pinyin@1.0.2",
+			"_shasum": "dbf0d8117478e9f6c994192d3ae835688f57d014",
+			"_from": ".",
+			"_npmVersion": "3.10.9",
+			"_nodeVersion": "6.9.2",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "dbf0d8117478e9f6c994192d3ae835688f57d014",
+				"tarball": "http://npm.atomer.tech/at-pinyin/-/at-pinyin-1.0.2.tgz"
+			}
+		},
+		"1.0.3": {
+			"name": "at-pinyin",
+			"version": "1.0.3",
+			"description": "汉字转拼音，支持多音字",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-pinyin.git"
+			},
+			"keywords": [
+				"pinyin",
+				"汉子"
+			],
+			"author": {
+				"name": "Atomer"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-pinyin/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-pinyin#readme",
+			"readmeFilename": "README.md",
+			"_id": "at-pinyin@1.0.3",
+			"_shasum": "741e1e05302829e55d0643f5b511b787d022f5e8",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "741e1e05302829e55d0643f5b511b787d022f5e8",
+				"tarball": "http://npm.atomer.tech/at-pinyin/-/at-pinyin-1.0.3.tgz"
+			}
+		},
+		"1.0.4": {
+			"name": "at-pinyin",
+			"version": "1.0.4",
+			"description": "汉字转拼音，支持多音字",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-pinyin.git"
+			},
+			"keywords": [
+				"pinyin",
+				"汉子"
+			],
+			"author": {
+				"name": "Atomer"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-pinyin/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-pinyin#readme",
+			"readmeFilename": "README.md",
+			"_id": "at-pinyin@1.0.4",
+			"_shasum": "4cad0e5398c6ed839b04ce2ff15a27b4bb982842",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "4cad0e5398c6ed839b04ce2ff15a27b4bb982842",
+				"tarball": "http://npm.atomer.tech/at-pinyin/-/at-pinyin-1.0.4.tgz"
+			}
+		},
+		"1.0.5": {
+			"name": "at-pinyin",
+			"version": "1.0.5",
+			"description": "汉字转拼音，支持多音字",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-pinyin.git"
+			},
+			"keywords": [
+				"pinyin",
+				"汉子"
+			],
+			"author": {
+				"name": "Atomer"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-pinyin/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-pinyin#readme",
+			"readmeFilename": "README.md",
+			"_id": "at-pinyin@1.0.5",
+			"_shasum": "60bacdd19504e4941ff54024afc16c814c22c24c",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "60bacdd19504e4941ff54024afc16c814c22c24c",
+				"tarball": "http://npm.atomer.tech/at-pinyin/-/at-pinyin-1.0.5.tgz"
+			}
+		},
+		"1.0.6": {
+			"name": "at-pinyin",
+			"version": "1.0.6",
+			"description": "汉字转拼音，支持多音字",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/AtomicRose/at-pinyin.git"
+			},
+			"keywords": [
+				"pinyin",
+				"汉子"
+			],
+			"author": {
+				"name": "Atomer"
+			},
+			"license": "ISC",
+			"bugs": {
+				"url": "https://github.com/AtomicRose/at-pinyin/issues"
+			},
+			"homepage": "https://github.com/AtomicRose/at-pinyin#readme",
+			"readmeFilename": "README.md",
+			"_id": "at-pinyin@1.0.6",
+			"_shasum": "2f9c65861005f9b0829da8d16e521350ab6c99dc",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {},
+			"dist": {
+				"shasum": "2f9c65861005f9b0829da8d16e521350ab6c99dc",
+				"tarball": "http://npm.atomer.tech/at-pinyin/-/at-pinyin-1.0.6.tgz"
+			}
+		}
+	},
+	"dist-tags": {
+		"latest": [
+			"1.0.0",
+			"1.0.1",
+			"1.0.2",
+			"1.0.3",
+			"1.0.4",
+			"1.0.5",
+			"1.0.6"
+		]
+	},
+	"_distfiles": {},
+	"_attachments": {
+		"at-pinyin-1.0.0.tgz": {
+			"shasum": "d3b0939ed2cb835a6e8baf0fb00e5e26465fe0d9",
+			"version": "1.0.0"
+		},
+		"at-pinyin-1.0.1.tgz": {
+			"shasum": "87cee40227413b9a80cf2ebe6facc31e7d27732c",
+			"version": "1.0.1"
+		},
+		"at-pinyin-1.0.2.tgz": {
+			"shasum": "dbf0d8117478e9f6c994192d3ae835688f57d014",
+			"version": "1.0.2"
+		},
+		"at-pinyin-1.0.3.tgz": {
+			"shasum": "741e1e05302829e55d0643f5b511b787d022f5e8",
+			"version": "1.0.3"
+		},
+		"at-pinyin-1.0.4.tgz": {
+			"shasum": "4cad0e5398c6ed839b04ce2ff15a27b4bb982842",
+			"version": "1.0.4"
+		},
+		"at-pinyin-1.0.5.tgz": {
+			"shasum": "60bacdd19504e4941ff54024afc16c814c22c24c",
+			"version": "1.0.5"
+		},
+		"at-pinyin-1.0.6.tgz": {
+			"shasum": "2f9c65861005f9b0829da8d16e521350ab6c99dc",
+			"version": "1.0.6"
+		}
+	},
+	"_uplinks": {},
+	"_rev": "21-7adbbd549c3f48ce",
+	"readme": "# 汉字转拼音\r\n\r\n提供汉字转拼音的功能。支持多音字，支持多音字过滤器。\r\n## 使用方法\r\n```\r\n// 获取字符串首汉字拼音首字母\r\npinyin.getFirstChar(str, options);\r\n```\r\n```\r\n// 获取字符串所有汉字拼音首字母\r\npinyin.getFirstChars(str, options);\r\n```\r\n```\r\n// 获取汉字字符串全拼\r\npinyin.getFullSpell(str, options);\r\n```\r\n```\r\noptions = {\r\n    filters: {\r\n        city: {\r\n            \"重庆\": \"ChongQing\"\r\n        }，\r\n        name: {\r\n            \"单\": \"Shan\"\r\n        }\r\n    }\r\n    filterName: 'name' // or \"city\"\r\n}\r\n```"
+}
