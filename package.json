@@ -9,8 +9,10 @@
     "build-alpha": "cross-env NODE_ENV=alpha node build/alpha.js",
     "build-production": "cross-env NODE_ENV=production node build/prod.js",
     "build": "cross-env NODE_ENV=production node build/prod.js",
-    "start-service": "cross-env pm2 start src/backEnd/bin/npmCtrlService.js",
-    "restart-service": "corss-env pm2 restart src/backEnd/bin/npmCtrlService.js"
+    "start-service": "cross-env NODE_ENV=production pm2 src/backEnd/bin/npmCtrlService.js",
+    "restart-service": "corss-env NODE_ENV=production pm2 restart src/backEnd/bin/npmCtrlService.js",
+    "start-service-dev": "cross-env NODE_ENV=development pm2 src/backEnd/bin/npmCtrlService.js",
+    "restart-service-dev": "corss-env NODE_ENV=development pm2 restart src/backEnd/bin/npmCtrlService.js"
   },
   "dependencies": {
     "body-parser": "^1.17.1",
@@ -55,6 +57,7 @@
     "clean-webpack-plugin": "^0.1.13",
     "connect-history-api-fallback": "^1.1.0",
     "copy-webpack-plugin": "^4.0.1",
+    "cross-env": "^4.0.0",
     "css-loader": "^0.23.0",
     "eslint": "^1.10.3",
     "eslint-friendly-formatter": "^1.2.2",

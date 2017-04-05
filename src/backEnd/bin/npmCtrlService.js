@@ -3,7 +3,7 @@ let debug = require('debug')('mcroblog:server');
 let http = require('http');
 
 
-var port = normalizePort(process.env.PORT || '3000');
+var port = normalizePort('3800');
 app.set('port', port);
 let server = http.createServer(app);
 
