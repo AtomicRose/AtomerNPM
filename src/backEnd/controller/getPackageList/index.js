@@ -8,8 +8,8 @@ let getPackageList = () => {
         try {
             let packageListObj = {};
             ReadFiles(dirPath, {
-                dirRegex: /testDir\/[a-zA-Z0-9_-]+/g,
-                fileRegex: /testDir\/[a-zA-Z0-9_-]+\/package\.json/g,
+                dirRegex: /npm_package_storage\/[a-zA-Z0-9_-]+/g,
+                fileRegex: /npm_package_storage\/[a-zA-Z0-9_-]+\/package\.json/g,
                 callback: function (res) {
                     for (let i = 0; i < res.length; i++) {
                         let tempJson = JSON.parse(res[i]);
