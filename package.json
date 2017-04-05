@@ -9,9 +9,9 @@
     "build-alpha": "cross-env NODE_ENV=alpha node build/alpha.js",
     "build-production": "cross-env NODE_ENV=production node build/prod.js",
     "build": "cross-env NODE_ENV=production node build/prod.js",
-    "start-service": "cross-env NODE_ENV=production pm2 src/backEnd/bin/npmCtrlService.js",
+    "start-service": "cross-env NODE_ENV=production pm2 start src/backEnd/bin/npmCtrlService.js",
     "restart-service": "corss-env NODE_ENV=production pm2 restart src/backEnd/bin/npmCtrlService.js",
-    "start-service-dev": "cross-env NODE_ENV=development pm2 src/backEnd/bin/npmCtrlService.js",
+    "start-service-dev": "cross-env NODE_ENV=development pm2 start src/backEnd/bin/npmCtrlService.js",
     "restart-service-dev": "corss-env NODE_ENV=development pm2 restart src/backEnd/bin/npmCtrlService.js"
   },
   "dependencies": {
