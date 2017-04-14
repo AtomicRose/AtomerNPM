@@ -20,6 +20,14 @@ let PackageService = {
         }, baseToDo, {
             ignoreAuthorization: true
         });
+    },
+    getPackageDetail: (params) => {
+        return HttpRequest.get({
+            url: API_URL + '/packageDetail',
+            params: params
+        }, baseToDo, {
+            ignoreAuthorization: true
+        });
     }
 };
 export default PackageService;

@@ -5,7 +5,7 @@ import {history} from 'STORE';
 class PackageInfo extends Component {
     handelGoDetail(packageName) {
         history.push({
-            pathname: '/' + packageName
+            pathname: '/package/' + packageName
         });
     }
 

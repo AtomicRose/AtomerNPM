@@ -10,6 +10,7 @@ export default {
     childRoutes: [
         // 路由按模块组织分离，避免单文件代码量过大
         // require('./msg').default,
+        {path: 'package/*', component: require('COMPONENT/PackageDetail').default},
         {path: 'welcome', component: require('COMPONENT/Welcome').default},
         // 强制“刷新”页面的 hack
         {path: 'redirect', component: require('COMPONENT/Redirect').default},
